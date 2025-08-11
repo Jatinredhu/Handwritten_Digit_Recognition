@@ -21,8 +21,8 @@ This project uses a neural network built with TensorFlow/Keras to classify handw
    git clone https://github.com/Jatinredhu/Handwritten_Digit_Recognition.git
 2. Open digit_recognition_ml.ipynb in Jupyter Notebook or Google Colab.
 3. Run all cells — the MNIST dataset will be downloaded automatically.
-   
 
+""digit_recognition_model.keras" is the saved trained model that you can use directly without retraining."
 
 
 
