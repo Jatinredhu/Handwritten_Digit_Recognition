@@ -1,8 +1,6 @@
 # Handwritten_Digit_Recognition
 Recognising handwritten numerical digits using deep neural networks.
 
-# Handwritten Digit Recognition (MNIST)
-
 This project uses a neural network built with TensorFlow/Keras to classify handwritten digits (0–9) from the MNIST dataset.
 
 ## Overview
