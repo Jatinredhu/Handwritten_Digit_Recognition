@@ -26,8 +26,16 @@ This project uses a neural network built with TensorFlow/Keras to classify handw
 4. Open digit_recognition_ml.ipynb in Jupyter Notebook or Google Colab.
 5. Run all cells — the MNIST dataset will be downloaded automatically.
 
-""digit_recognition_model.keras" is the saved trained model that you can use directly without retraining."
+## Using the Pretrained Model
 
+The file `digit_recognition_model.keras` contains the trained neural network model which can be used directly without retraining.
+
+You can load it in Python like this:
+
+```python
+from tensorflow.keras.models import load_model
+
+model = load_model('digit_recognition_model.keras')
 
 
 
